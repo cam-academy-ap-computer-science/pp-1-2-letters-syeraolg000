@@ -1,0 +1,22 @@
+Graded 10/4 by Mark Congdon
+
+Total Score:		24/25
+
+Compiles and Runs:	15/15
+Correct Output:		6/6
+Consistent Style:	2/2
+Efficiency:			1/2
+
+Good work!  Your program is very clean and well-organized.
+
+One of the requirements was that the main method have only
+three functions in it, one for each letter.  I'm not sure
+you knew that requirement, and you did demonstrate that
+you know how to use a shared method for the various letters,
+so I'll take off just one point for that.
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but at a minimum
+it would have been good to have a comment for the methods that
+were letters and the method that was a share paragraph, or in
+your long main, to have comments separating the various letters.
